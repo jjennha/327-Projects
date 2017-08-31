@@ -1,0 +1,3 @@
+8/23/17 : Created sandpile.c
+8/24/17 : Created methods main, init, play, printgrid.  Modified and completed to comply to spec
+8/29/17 : Created Makefile, CHANGELOG, README

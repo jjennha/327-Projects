@@ -1,0 +1,3 @@
+Implementation of the Abelian Sandpile complies with spec.  
+
+The program simulates the Abelian Sandpile model in which a grain of sand is dropped onto a pile at the center of the grid during each step of the simulation.  When the piles reach a height of greater than 4, they become unstable and topple over, removing 4 grains from the current pile and depositing 1 grain on each pile adjacent to the current.  Each simulation step ends when all piles are stable with 4 grains or less.
